@@ -12,4 +12,7 @@
 服务器端激活tensorboard
 3. 本机浏览器访问 127.0.0.1:16006即可远程连接服务器端的16006端口
 举例如下：（我是在训练被中断了，蓝色的线条是从500继续开始训了）
-[图片]
+![image](https://github.com/user-attachments/assets/be4139cd-adf3-44f7-ba2b-92fc09b27f77)
+
+# 结果举例
+![image](https://github.com/user-attachments/assets/8adab93f-78f9-4f5f-b4e2-05736ae3d112)
